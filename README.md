@@ -39,7 +39,7 @@ The result after being processed will be returned to the users page (UI).
 
 # Travis CI Testing 
 
-We used Travis CI which wass the first CI as a service tool. it introduced a new approach to building code in the cloud. this tool allows the user to link repository, build and test their apps. As well it is a hosted continuous integration services used to build and test software projects hosted on GitHup.it also provides services for open-source projects for free 
+We used Travis CI which was the first CI as a service tool. it introduced a new approach to building code in the cloud. this tool allows the user to link repository, build and test their apps. As well it is a hosted continuous integration services used to build and test software projects hosted on GitHup,it also provides services for open-source projects for free 
    # The Benefits of Travis CI 
     1) you can monitor GitHub projects
     2) Run Test and generate results
