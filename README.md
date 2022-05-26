@@ -28,7 +28,7 @@ Download dependencies for a system:
   3) install some cors issues:
         npm  install cors --save
         
-  4)install node js:
+  4) install node js:
          node index.js
          
 # Release v1.1
