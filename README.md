@@ -1,4 +1,3 @@
-# SWproject
 # Food Prediction
 # Description:
 
